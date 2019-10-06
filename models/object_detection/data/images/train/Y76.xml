@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Y76.jpg</filename>
+	<path>/home/naseer/Documents/dataset/train/Y76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>353</width>
+		<height>442</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tumor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>84</ymin>
+			<xmax>261</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

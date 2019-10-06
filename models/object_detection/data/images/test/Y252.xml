@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Y252.jpg</filename>
+	<path>/home/naseer/Documents/dataset/test/Y252.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>197</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tumor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>134</ymin>
+			<xmax>55</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
